@@ -5,7 +5,7 @@ import os.path
 
 from telegram.ext import Updater
 
-updater = Updater(token='541654752:AAH9S1XoCAGRaNpKIiUSUD2vaOSXB3WxPK4')
+updater = Updater(token='TELEGRAM_TOKEN')
 
 dispatcher = updater.dispatcher
 
